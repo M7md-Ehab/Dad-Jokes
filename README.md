@@ -7,17 +7,17 @@ loves a good (or bad) dad joke!
 
 🚀 Features
 
-1.Random Dad Jokes: Fetches jokes from an external API for endless fun.
+1. Random Dad Jokes: Fetches jokes from an external API for endless fun.
 
-2.Smooth Animations: Enjoy a visually appealing transition for each joke.
+2. Smooth Animations: Enjoy a visually appealing transition for each joke.
 
-3.Responsive Design: Works seamlessly across all devices.
+3. Responsive Design: Works seamlessly across all devices.
 
-4.Simple UI: Clean, user-friendly interface.
+4. Simple UI: Clean, user-friendly interface.
 
-5.Next Joke Button: Get another joke with a single click.
+5. Next Joke Button: Get another joke with a single click.
 
-6.LinkedIn Button: Links to the creator’s LinkedIn profile.
+6. LinkedIn Button: Links to the creator’s LinkedIn profile.
 
 
 
